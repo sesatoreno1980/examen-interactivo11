@@ -1,0 +1,57 @@
+[
+    {
+        "question_number": 1,
+        "question": "Respecto a lo establecido en la ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, sobre el derecho de acceso ¿En qué casos la solicitud será considerada excesiva?",
+        "options": {
+            "a": "Cuando se ejerza el derecho de acceso en más de una ocasión durante el plazo de seis meses.",
+            "b": "Cuando el afectado elija un medio distinto al que se le ofrece que suponga un coste desproporcionado.",
+            "c": "Cuando se ejerza el derecho de acceso en más de cinco ocasiones durante el plazo de seis meses.",
+            "d": "Cuando el afectado solicite una cantidad de datos superior al establecido."
+        },
+        "correct_answer": "a"
+    },
+    {
+        "question_number": 2,
+        "question": "De conformidad con la ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, el derecho de acceso del afectado se ejercitará de acuerdo con lo establecido en el artículo 15 del:",
+        "options": {
+            "a": "Reglamento (UE) 2014/679",
+            "b": "Reglamento (UE) 2015/679",
+            "c": "Reglamento (UE) 2016/679",
+            "d": "Reglamento (UE) 2017/679"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "question_number": 3,
+        "question": "De conformidad con la ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, los solicitantes de información ¿En qué lengua/s se podrán dirigir a las Administraciones Públicas?",
+        "options": {
+            "a": "Únicamente en español.",
+            "b": "Tanto en inglés como en español.",
+            "c": "En cualquiera de las lenguas cooficiales del Estado en el territorio en el que radique la Administración en cuestión.",
+            "d": "En cualquiera de las lenguas cooficiales del Estado en el territorio en el que radique la Administración en cuestión, así como en la lengua o lenguas del país de origen del solicitante."
+        },
+        "correct_answer": "c"
+    },
+    {
+        "question_number": 4,
+        "question": "Según establece el artículo 24 de la ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, para reclamar ante el Consejo de Transparencia ¿Cuál es el plazo establecido?",
+        "options": {
+            "a": "La reclamación se interpondrá en el plazo de un mes a contar desde el día siguiente al de la notificación del acto impugnado o desde el día siguiente a aquel en que se produzcan los efectos del silencio administrativo.",
+            "b": "La reclamación se interpondrá en el plazo de cuarenta días a contar desde el día siguiente al de la notificación del acto impugnado o desde el día siguiente a aquel en que se produzcan los efectos del silencio administrativo.",
+            "c": "La reclamación se interpondrá en el plazo de cuarenta y cinco días a contar desde el día siguiente al de la notificación del acto impugnado o desde el día siguiente a aquel en que se produzcan los efectos del silencio administrativo.",
+            "d": "La reclamación se interpondrá en el plazo de dos meses a contar desde el día siguiente al de la notificación del acto impugnado o desde el día siguiente a aquel en que se produzcan los efectos del silencio administrativo."
+        },
+        "correct_answer": "a"
+    },
+    {
+        "question_number": 5,
+        "question": "Según la ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres en su artículo 14 ¿Cuáles NO serán criterios generales de actuación de los Poderes Públicos?",
+        "options": {
+            "a": "La integración del principio de igualdad de trato y de oportunidades en el conjunto de las políticas económica, laboral, social, cultural y artística, con el fin de evitar la segregación laboral y eliminar las diferencias retributivas, así como potenciar el crecimiento del empresariado femenino en todos los ámbitos que abarque el conjunto de políticas y el valor del trabajo de las mujeres, incluido el doméstico.",
+            "b": "La participación de mujeres y hombres en las candidaturas electorales y en la toma de decisiones en una proporción de 60/40%.",
+            "c": "La implantación de un lenguaje no sexista en el ámbito administrativo y su fomento en la totalidad de las relaciones sociales, culturales y artísticas.",
+            "d": "El fomento de instrumentos de colaboración entre las distintas Administraciones públicas y los agentes sociales, las asociaciones de mujeres y otras entidades privadas."
+        },
+        "correct_answer": "b"
+    }
+]

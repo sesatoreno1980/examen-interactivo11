@@ -1,0 +1,1384 @@
+{
+  "questions": [
+    {
+      "number": 1,
+      "stem": "Pregunta 1: Descripción completa de la pregunta 1, relacionada con la ley Orgánica 3/2018.",
+      "options": [
+        {
+          "label": "a",
+          "text": "Opción A para la pregunta 1"
+        },
+        {
+          "label": "b",
+          "text": "Opción B para la pregunta 1"
+        },
+        {
+          "label": "c",
+          "text": "Opción C para la pregunta 1"
+        },
+        {
+          "label": "d",
+          "text": "Opción D para la pregunta 1"
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 2,
+      "stem": "Pregunta 2: Descripción completa de la pregunta 2, relacionada con la ley Orgánica 3/2018.",
+      "options": [
+        {
+          "label": "a",
+          "text": "Opción A para la pregunta 2"
+        },
+        {
+          "label": "b",
+          "text": "Opción B para la pregunta 2"
+        },
+        {
+          "label": "c",
+          "text": "Opción C para la pregunta 2"
+        },
+        {
+          "label": "d",
+          "text": "Opción D para la pregunta 2"
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 3,
+      "stem": "Pregunta 3: Descripción completa de la pregunta 3, relacionada con la ley Orgánica 3/2018.",
+      "options": [
+        {
+          "label": "a",
+          "text": "Opción A para la pregunta 3"
+        },
+        {
+          "label": "b",
+          "text": "Opción B para la pregunta 3"
+        },
+        {
+          "label": "c",
+          "text": "Opción C para la pregunta 3"
+        },
+        {
+          "label": "d",
+          "text": "Opción D para la pregunta 3"
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 4,
+      "stem": "Pregunta 4: Descripción completa de la pregunta 4, relacionada con la ley Orgánica 3/2018.",
+      "options": [
+        {
+          "label": "a",
+          "text": "Opción A para la pregunta 4"
+        },
+        {
+          "label": "b",
+          "text": "Opción B para la pregunta 4"
+        },
+        {
+          "label": "c",
+          "text": "Opción C para la pregunta 4"
+        },
+        {
+          "label": "d",
+          "text": "Opción D para la pregunta 4"
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 5,
+      "stem": "Pregunta 5: Descripción completa de la pregunta 5, relacionada con la ley Orgánica 3/2018.",
+      "options": [
+        {
+          "label": "a",
+          "text": "Opción A para la pregunta 5"
+        },
+        {
+          "label": "b",
+          "text": "Opción B para la pregunta 5"
+        },
+        {
+          "label": "c",
+          "text": "Opción C para la pregunta 5"
+        },
+        {
+          "label": "d",
+          "text": "Opción D para la pregunta 5"
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 6,
+      "stem": "Pregunta 6: Descripción completa de la pregunta 6, relacionada con la ley Orgánica 3/2018.",
+      "options": [
+        {
+          "label": "a",
+          "text": "Opción A para la pregunta 6"
+        },
+        {
+          "label": "b",
+          "text": "Opción B para la pregunta 6"
+        },
+        {
+          "label": "c",
+          "text": "Opción C para la pregunta 6"
+        },
+        {
+          "label": "d",
+          "text": "Opción D para la pregunta 6"
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 7,
+      "stem": "Pregunta 7: Descripción completa de la pregunta 7, relacionada con la ley Orgánica 3/2018.",
+      "options": [
+        {
+          "label": "a",
+          "text": "Opción A para la pregunta 7"
+        },
+        {
+          "label": "b",
+          "text": "Opción B para la pregunta 7"
+        },
+        {
+          "label": "c",
+          "text": "Opción C para la pregunta 7"
+        },
+        {
+          "label": "d",
+          "text": "Opción D para la pregunta 7"
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 8,
+      "stem": "Pregunta 8: Descripción completa de la pregunta 8, relacionada con la ley Orgánica 3/2018.",
+      "options": [
+        {
+          "label": "a",
+          "text": "Opción A para la pregunta 8"
+        },
+        {
+          "label": "b",
+          "text": "Opción B para la pregunta 8"
+        },
+        {
+          "label": "c",
+          "text": "Opción C para la pregunta 8"
+        },
+        {
+          "label": "d",
+          "text": "Opción D para la pregunta 8"
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 9,
+      "stem": "Pregunta 9: Descripción completa de la pregunta 9, relacionada con la ley Orgánica 3/2018.",
+      "options": [
+        {
+          "label": "a",
+          "text": "Opción A para la pregunta 9"
+        },
+        {
+          "label": "b",
+          "text": "Opción B para la pregunta 9"
+        },
+        {
+          "label": "c",
+          "text": "Opción C para la pregunta 9"
+        },
+        {
+          "label": "d",
+          "text": "Opción D para la pregunta 9"
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 10,
+      "stem": "Pregunta 10: Descripción completa de la pregunta 10, relacionada con la ley Orgánica 3/2018.",
+      "options": [
+        {
+          "label": "a",
+          "text": "Opción A para la pregunta 10"
+        },
+        {
+          "label": "b",
+          "text": "Opción B para la pregunta 10"
+        },
+        {
+          "label": "c",
+          "text": "Opción C para la pregunta 10"
+        },
+        {
+          "label": "d",
+          "text": "Opción D para la pregunta 10"
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 11,
+      "stem": "Pregunta 11: Descripción completa de la pregunta 11, relacionada con la ley Orgánica 3/2018.",
+      "options": [
+        {
+          "label": "a",
+          "text": "Opción A para la pregunta 11"
+        },
+        {
+          "label": "b",
+          "text": "Opción B para la pregunta 11"
+        },
+        {
+          "label": "c",
+          "text": "Opción C para la pregunta 11"
+        },
+        {
+          "label": "d",
+          "text": "Opción D para la pregunta 11"
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 12,
+      "stem": "Pregunta 12: Descripción completa de la pregunta 12, relacionada con la ley Orgánica 3/2018.",
+      "options": [
+        {
+          "label": "a",
+          "text": "Opción A para la pregunta 12"
+        },
+        {
+          "label": "b",
+          "text": "Opción B para la pregunta 12"
+        },
+        {
+          "label": "c",
+          "text": "Opción C para la pregunta 12"
+        },
+        {
+          "label": "d",
+          "text": "Opción D para la pregunta 12"
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 13,
+      "stem": "Pregunta 13: Descripción completa de la pregunta 13, relacionada con la ley Orgánica 3/2018.",
+      "options": [
+        {
+          "label": "a",
+          "text": "Opción A para la pregunta 13"
+        },
+        {
+          "label": "b",
+          "text": "Opción B para la pregunta 13"
+        },
+        {
+          "label": "c",
+          "text": "Opción C para la pregunta 13"
+        },
+        {
+          "label": "d",
+          "text": "Opción D para la pregunta 13"
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 14,
+      "stem": "Pregunta 14: Descripción completa de la pregunta 14, relacionada con la ley Orgánica 3/2018.",
+      "options": [
+        {
+          "label": "a",
+          "text": "Opción A para la pregunta 14"
+        },
+        {
+          "label": "b",
+          "text": "Opción B para la pregunta 14"
+        },
+        {
+          "label": "c",
+          "text": "Opción C para la pregunta 14"
+        },
+        {
+          "label": "d",
+          "text": "Opción D para la pregunta 14"
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 15,
+      "stem": "Pregunta 15: Descripción completa de la pregunta 15, relacionada con la ley Orgánica 3/2018.",
+      "options": [
+        {
+          "label": "a",
+          "text": "Opción A para la pregunta 15"
+        },
+        {
+          "label": "b",
+          "text": "Opción B para la pregunta 15"
+        },
+        {
+          "label": "c",
+          "text": "Opción C para la pregunta 15"
+        },
+        {
+          "label": "d",
+          "text": "Opción D para la pregunta 15"
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 16,
+      "stem": "Pregunta 16: Descripción completa de la pregunta 16, relacionada con la ley Orgánica 3/2018.",
+      "options": [
+        {
+          "label": "a",
+          "text": "Opción A para la pregunta 16"
+        },
+        {
+          "label": "b",
+          "text": "Opción B para la pregunta 16"
+        },
+        {
+          "label": "c",
+          "text": "Opción C para la pregunta 16"
+        },
+        {
+          "label": "d",
+          "text": "Opción D para la pregunta 16"
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 17,
+      "stem": "Pregunta 17: Descripción completa de la pregunta 17, relacionada con la ley Orgánica 3/2018.",
+      "options": [
+        {
+          "label": "a",
+          "text": "Opción A para la pregunta 17"
+        },
+        {
+          "label": "b",
+          "text": "Opción B para la pregunta 17"
+        },
+        {
+          "label": "c",
+          "text": "Opción C para la pregunta 17"
+        },
+        {
+          "label": "d",
+          "text": "Opción D para la pregunta 17"
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 18,
+      "stem": "Pregunta 18: Descripción completa de la pregunta 18, relacionada con la ley Orgánica 3/2018.",
+      "options": [
+        {
+          "label": "a",
+          "text": "Opción A para la pregunta 18"
+        },
+        {
+          "label": "b",
+          "text": "Opción B para la pregunta 18"
+        },
+        {
+          "label": "c",
+          "text": "Opción C para la pregunta 18"
+        },
+        {
+          "label": "d",
+          "text": "Opción D para la pregunta 18"
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 19,
+      "stem": "Pregunta 19: Descripción completa de la pregunta 19, relacionada con la ley Orgánica 3/2018.",
+      "options": [
+        {
+          "label": "a",
+          "text": "Opción A para la pregunta 19"
+        },
+        {
+          "label": "b",
+          "text": "Opción B para la pregunta 19"
+        },
+        {
+          "label": "c",
+          "text": "Opción C para la pregunta 19"
+        },
+        {
+          "label": "d",
+          "text": "Opción D para la pregunta 19"
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 20,
+      "stem": "Pregunta 20: Descripción completa de la pregunta 20, relacionada con la ley Orgánica 3/2018.",
+      "options": [
+        {
+          "label": "a",
+          "text": "Opción A para la pregunta 20"
+        },
+        {
+          "label": "b",
+          "text": "Opción B para la pregunta 20"
+        },
+        {
+          "label": "c",
+          "text": "Opción C para la pregunta 20"
+        },
+        {
+          "label": "d",
+          "text": "Opción D para la pregunta 20"
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 21,
+      "stem": "Pregunta 21: Descripción completa de la pregunta 21, relacionada con la ley Orgánica 3/2018.",
+      "options": [
+        {
+          "label": "a",
+          "text": "Opción A para la pregunta 21"
+        },
+        {
+          "label": "b",
+          "text": "Opción B para la pregunta 21"
+        },
+        {
+          "label": "c",
+          "text": "Opción C para la pregunta 21"
+        },
+        {
+          "label": "d",
+          "text": "Opción D para la pregunta 21"
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 22,
+      "stem": "Pregunta 22: Descripción completa de la pregunta 22, relacionada con la ley Orgánica 3/2018.",
+      "options": [
+        {
+          "label": "a",
+          "text": "Opción A para la pregunta 22"
+        },
+        {
+          "label": "b",
+          "text": "Opción B para la pregunta 22"
+        },
+        {
+          "label": "c",
+          "text": "Opción C para la pregunta 22"
+        },
+        {
+          "label": "d",
+          "text": "Opción D para la pregunta 22"
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 23,
+      "stem": "Pregunta 23: Descripción completa de la pregunta 23, relacionada con la ley Orgánica 3/2018.",
+      "options": [
+        {
+          "label": "a",
+          "text": "Opción A para la pregunta 23"
+        },
+        {
+          "label": "b",
+          "text": "Opción B para la pregunta 23"
+        },
+        {
+          "label": "c",
+          "text": "Opción C para la pregunta 23"
+        },
+        {
+          "label": "d",
+          "text": "Opción D para la pregunta 23"
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 24,
+      "stem": "Pregunta 24: Descripción completa de la pregunta 24, relacionada con la ley Orgánica 3/2018.",
+      "options": [
+        {
+          "label": "a",
+          "text": "Opción A para la pregunta 24"
+        },
+        {
+          "label": "b",
+          "text": "Opción B para la pregunta 24"
+        },
+        {
+          "label": "c",
+          "text": "Opción C para la pregunta 24"
+        },
+        {
+          "label": "d",
+          "text": "Opción D para la pregunta 24"
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 25,
+      "stem": "Pregunta 25: Descripción completa de la pregunta 25, relacionada con la ley Orgánica 3/2018.",
+      "options": [
+        {
+          "label": "a",
+          "text": "Opción A para la pregunta 25"
+        },
+        {
+          "label": "b",
+          "text": "Opción B para la pregunta 25"
+        },
+        {
+          "label": "c",
+          "text": "Opción C para la pregunta 25"
+        },
+        {
+          "label": "d",
+          "text": "Opción D para la pregunta 25"
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 26,
+      "stem": "Pregunta 26: Descripción completa de la pregunta 26, relacionada con la ley Orgánica 3/2018.",
+      "options": [
+        {
+          "label": "a",
+          "text": "Opción A para la pregunta 26"
+        },
+        {
+          "label": "b",
+          "text": "Opción B para la pregunta 26"
+        },
+        {
+          "label": "c",
+          "text": "Opción C para la pregunta 26"
+        },
+        {
+          "label": "d",
+          "text": "Opción D para la pregunta 26"
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 27,
+      "stem": "Pregunta 27: Descripción completa de la pregunta 27, relacionada con la ley Orgánica 3/2018.",
+      "options": [
+        {
+          "label": "a",
+          "text": "Opción A para la pregunta 27"
+        },
+        {
+          "label": "b",
+          "text": "Opción B para la pregunta 27"
+        },
+        {
+          "label": "c",
+          "text": "Opción C para la pregunta 27"
+        },
+        {
+          "label": "d",
+          "text": "Opción D para la pregunta 27"
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 28,
+      "stem": "Pregunta 28: Descripción completa de la pregunta 28, relacionada con la ley Orgánica 3/2018.",
+      "options": [
+        {
+          "label": "a",
+          "text": "Opción A para la pregunta 28"
+        },
+        {
+          "label": "b",
+          "text": "Opción B para la pregunta 28"
+        },
+        {
+          "label": "c",
+          "text": "Opción C para la pregunta 28"
+        },
+        {
+          "label": "d",
+          "text": "Opción D para la pregunta 28"
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 29,
+      "stem": "Pregunta 29: Descripción completa de la pregunta 29, relacionada con la ley Orgánica 3/2018.",
+      "options": [
+        {
+          "label": "a",
+          "text": "Opción A para la pregunta 29"
+        },
+        {
+          "label": "b",
+          "text": "Opción B para la pregunta 29"
+        },
+        {
+          "label": "c",
+          "text": "Opción C para la pregunta 29"
+        },
+        {
+          "label": "d",
+          "text": "Opción D para la pregunta 29"
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 30,
+      "stem": "Pregunta 30: Descripción completa de la pregunta 30, relacionada con la ley Orgánica 3/2018.",
+      "options": [
+        {
+          "label": "a",
+          "text": "Opción A para la pregunta 30"
+        },
+        {
+          "label": "b",
+          "text": "Opción B para la pregunta 30"
+        },
+        {
+          "label": "c",
+          "text": "Opción C para la pregunta 30"
+        },
+        {
+          "label": "d",
+          "text": "Opción D para la pregunta 30"
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 31,
+      "stem": "Pregunta 31: Descripción completa de la pregunta 31, relacionada con la ley Orgánica 3/2018.",
+      "options": [
+        {
+          "label": "a",
+          "text": "Opción A para la pregunta 31"
+        },
+        {
+          "label": "b",
+          "text": "Opción B para la pregunta 31"
+        },
+        {
+          "label": "c",
+          "text": "Opción C para la pregunta 31"
+        },
+        {
+          "label": "d",
+          "text": "Opción D para la pregunta 31"
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 32,
+      "stem": "Pregunta 32: Descripción completa de la pregunta 32, relacionada con la ley Orgánica 3/2018.",
+      "options": [
+        {
+          "label": "a",
+          "text": "Opción A para la pregunta 32"
+        },
+        {
+          "label": "b",
+          "text": "Opción B para la pregunta 32"
+        },
+        {
+          "label": "c",
+          "text": "Opción C para la pregunta 32"
+        },
+        {
+          "label": "d",
+          "text": "Opción D para la pregunta 32"
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 33,
+      "stem": "Pregunta 33: Descripción completa de la pregunta 33, relacionada con la ley Orgánica 3/2018.",
+      "options": [
+        {
+          "label": "a",
+          "text": "Opción A para la pregunta 33"
+        },
+        {
+          "label": "b",
+          "text": "Opción B para la pregunta 33"
+        },
+        {
+          "label": "c",
+          "text": "Opción C para la pregunta 33"
+        },
+        {
+          "label": "d",
+          "text": "Opción D para la pregunta 33"
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 34,
+      "stem": "Pregunta 34: Descripción completa de la pregunta 34, relacionada con la ley Orgánica 3/2018.",
+      "options": [
+        {
+          "label": "a",
+          "text": "Opción A para la pregunta 34"
+        },
+        {
+          "label": "b",
+          "text": "Opción B para la pregunta 34"
+        },
+        {
+          "label": "c",
+          "text": "Opción C para la pregunta 34"
+        },
+        {
+          "label": "d",
+          "text": "Opción D para la pregunta 34"
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 35,
+      "stem": "Pregunta 35: Descripción completa de la pregunta 35, relacionada con la ley Orgánica 3/2018.",
+      "options": [
+        {
+          "label": "a",
+          "text": "Opción A para la pregunta 35"
+        },
+        {
+          "label": "b",
+          "text": "Opción B para la pregunta 35"
+        },
+        {
+          "label": "c",
+          "text": "Opción C para la pregunta 35"
+        },
+        {
+          "label": "d",
+          "text": "Opción D para la pregunta 35"
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 36,
+      "stem": "Pregunta 36: Descripción completa de la pregunta 36, relacionada con la ley Orgánica 3/2018.",
+      "options": [
+        {
+          "label": "a",
+          "text": "Opción A para la pregunta 36"
+        },
+        {
+          "label": "b",
+          "text": "Opción B para la pregunta 36"
+        },
+        {
+          "label": "c",
+          "text": "Opción C para la pregunta 36"
+        },
+        {
+          "label": "d",
+          "text": "Opción D para la pregunta 36"
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 37,
+      "stem": "Pregunta 37: Descripción completa de la pregunta 37, relacionada con la ley Orgánica 3/2018.",
+      "options": [
+        {
+          "label": "a",
+          "text": "Opción A para la pregunta 37"
+        },
+        {
+          "label": "b",
+          "text": "Opción B para la pregunta 37"
+        },
+        {
+          "label": "c",
+          "text": "Opción C para la pregunta 37"
+        },
+        {
+          "label": "d",
+          "text": "Opción D para la pregunta 37"
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 38,
+      "stem": "Pregunta 38: Descripción completa de la pregunta 38, relacionada con la ley Orgánica 3/2018.",
+      "options": [
+        {
+          "label": "a",
+          "text": "Opción A para la pregunta 38"
+        },
+        {
+          "label": "b",
+          "text": "Opción B para la pregunta 38"
+        },
+        {
+          "label": "c",
+          "text": "Opción C para la pregunta 38"
+        },
+        {
+          "label": "d",
+          "text": "Opción D para la pregunta 38"
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 39,
+      "stem": "Pregunta 39: Descripción completa de la pregunta 39, relacionada con la ley Orgánica 3/2018.",
+      "options": [
+        {
+          "label": "a",
+          "text": "Opción A para la pregunta 39"
+        },
+        {
+          "label": "b",
+          "text": "Opción B para la pregunta 39"
+        },
+        {
+          "label": "c",
+          "text": "Opción C para la pregunta 39"
+        },
+        {
+          "label": "d",
+          "text": "Opción D para la pregunta 39"
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 40,
+      "stem": "Pregunta 40: Descripción completa de la pregunta 40, relacionada con la ley Orgánica 3/2018.",
+      "options": [
+        {
+          "label": "a",
+          "text": "Opción A para la pregunta 40"
+        },
+        {
+          "label": "b",
+          "text": "Opción B para la pregunta 40"
+        },
+        {
+          "label": "c",
+          "text": "Opción C para la pregunta 40"
+        },
+        {
+          "label": "d",
+          "text": "Opción D para la pregunta 40"
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 41,
+      "stem": "Pregunta 41: Descripción completa de la pregunta 41, relacionada con la ley Orgánica 3/2018.",
+      "options": [
+        {
+          "label": "a",
+          "text": "Opción A para la pregunta 41"
+        },
+        {
+          "label": "b",
+          "text": "Opción B para la pregunta 41"
+        },
+        {
+          "label": "c",
+          "text": "Opción C para la pregunta 41"
+        },
+        {
+          "label": "d",
+          "text": "Opción D para la pregunta 41"
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 42,
+      "stem": "Pregunta 42: Descripción completa de la pregunta 42, relacionada con la ley Orgánica 3/2018.",
+      "options": [
+        {
+          "label": "a",
+          "text": "Opción A para la pregunta 42"
+        },
+        {
+          "label": "b",
+          "text": "Opción B para la pregunta 42"
+        },
+        {
+          "label": "c",
+          "text": "Opción C para la pregunta 42"
+        },
+        {
+          "label": "d",
+          "text": "Opción D para la pregunta 42"
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 43,
+      "stem": "Pregunta 43: Descripción completa de la pregunta 43, relacionada con la ley Orgánica 3/2018.",
+      "options": [
+        {
+          "label": "a",
+          "text": "Opción A para la pregunta 43"
+        },
+        {
+          "label": "b",
+          "text": "Opción B para la pregunta 43"
+        },
+        {
+          "label": "c",
+          "text": "Opción C para la pregunta 43"
+        },
+        {
+          "label": "d",
+          "text": "Opción D para la pregunta 43"
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 44,
+      "stem": "Pregunta 44: Descripción completa de la pregunta 44, relacionada con la ley Orgánica 3/2018.",
+      "options": [
+        {
+          "label": "a",
+          "text": "Opción A para la pregunta 44"
+        },
+        {
+          "label": "b",
+          "text": "Opción B para la pregunta 44"
+        },
+        {
+          "label": "c",
+          "text": "Opción C para la pregunta 44"
+        },
+        {
+          "label": "d",
+          "text": "Opción D para la pregunta 44"
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 45,
+      "stem": "Pregunta 45: Descripción completa de la pregunta 45, relacionada con la ley Orgánica 3/2018.",
+      "options": [
+        {
+          "label": "a",
+          "text": "Opción A para la pregunta 45"
+        },
+        {
+          "label": "b",
+          "text": "Opción B para la pregunta 45"
+        },
+        {
+          "label": "c",
+          "text": "Opción C para la pregunta 45"
+        },
+        {
+          "label": "d",
+          "text": "Opción D para la pregunta 45"
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 46,
+      "stem": "Pregunta 46: Descripción completa de la pregunta 46, relacionada con la ley Orgánica 3/2018.",
+      "options": [
+        {
+          "label": "a",
+          "text": "Opción A para la pregunta 46"
+        },
+        {
+          "label": "b",
+          "text": "Opción B para la pregunta 46"
+        },
+        {
+          "label": "c",
+          "text": "Opción C para la pregunta 46"
+        },
+        {
+          "label": "d",
+          "text": "Opción D para la pregunta 46"
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 47,
+      "stem": "Pregunta 47: Descripción completa de la pregunta 47, relacionada con la ley Orgánica 3/2018.",
+      "options": [
+        {
+          "label": "a",
+          "text": "Opción A para la pregunta 47"
+        },
+        {
+          "label": "b",
+          "text": "Opción B para la pregunta 47"
+        },
+        {
+          "label": "c",
+          "text": "Opción C para la pregunta 47"
+        },
+        {
+          "label": "d",
+          "text": "Opción D para la pregunta 47"
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 48,
+      "stem": "Pregunta 48: Descripción completa de la pregunta 48, relacionada con la ley Orgánica 3/2018.",
+      "options": [
+        {
+          "label": "a",
+          "text": "Opción A para la pregunta 48"
+        },
+        {
+          "label": "b",
+          "text": "Opción B para la pregunta 48"
+        },
+        {
+          "label": "c",
+          "text": "Opción C para la pregunta 48"
+        },
+        {
+          "label": "d",
+          "text": "Opción D para la pregunta 48"
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 49,
+      "stem": "Pregunta 49: Descripción completa de la pregunta 49, relacionada con la ley Orgánica 3/2018.",
+      "options": [
+        {
+          "label": "a",
+          "text": "Opción A para la pregunta 49"
+        },
+        {
+          "label": "b",
+          "text": "Opción B para la pregunta 49"
+        },
+        {
+          "label": "c",
+          "text": "Opción C para la pregunta 49"
+        },
+        {
+          "label": "d",
+          "text": "Opción D para la pregunta 49"
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 50,
+      "stem": "Pregunta 50: Descripción completa de la pregunta 50, relacionada con la ley Orgánica 3/2018.",
+      "options": [
+        {
+          "label": "a",
+          "text": "Opción A para la pregunta 50"
+        },
+        {
+          "label": "b",
+          "text": "Opción B para la pregunta 50"
+        },
+        {
+          "label": "c",
+          "text": "Opción C para la pregunta 50"
+        },
+        {
+          "label": "d",
+          "text": "Opción D para la pregunta 50"
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 51,
+      "stem": "Pregunta 51: Descripción completa de la pregunta 51, relacionada con la ley Orgánica 3/2018.",
+      "options": [
+        {
+          "label": "a",
+          "text": "Opción A para la pregunta 51"
+        },
+        {
+          "label": "b",
+          "text": "Opción B para la pregunta 51"
+        },
+        {
+          "label": "c",
+          "text": "Opción C para la pregunta 51"
+        },
+        {
+          "label": "d",
+          "text": "Opción D para la pregunta 51"
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 52,
+      "stem": "Pregunta 52: Descripción completa de la pregunta 52, relacionada con la ley Orgánica 3/2018.",
+      "options": [
+        {
+          "label": "a",
+          "text": "Opción A para la pregunta 52"
+        },
+        {
+          "label": "b",
+          "text": "Opción B para la pregunta 52"
+        },
+        {
+          "label": "c",
+          "text": "Opción C para la pregunta 52"
+        },
+        {
+          "label": "d",
+          "text": "Opción D para la pregunta 52"
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 53,
+      "stem": "Pregunta 53: Descripción completa de la pregunta 53, relacionada con la ley Orgánica 3/2018.",
+      "options": [
+        {
+          "label": "a",
+          "text": "Opción A para la pregunta 53"
+        },
+        {
+          "label": "b",
+          "text": "Opción B para la pregunta 53"
+        },
+        {
+          "label": "c",
+          "text": "Opción C para la pregunta 53"
+        },
+        {
+          "label": "d",
+          "text": "Opción D para la pregunta 53"
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 54,
+      "stem": "Pregunta 54: Descripción completa de la pregunta 54, relacionada con la ley Orgánica 3/2018.",
+      "options": [
+        {
+          "label": "a",
+          "text": "Opción A para la pregunta 54"
+        },
+        {
+          "label": "b",
+          "text": "Opción B para la pregunta 54"
+        },
+        {
+          "label": "c",
+          "text": "Opción C para la pregunta 54"
+        },
+        {
+          "label": "d",
+          "text": "Opción D para la pregunta 54"
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 55,
+      "stem": "Pregunta 55: Descripción completa de la pregunta 55, relacionada con la ley Orgánica 3/2018.",
+      "options": [
+        {
+          "label": "a",
+          "text": "Opción A para la pregunta 55"
+        },
+        {
+          "label": "b",
+          "text": "Opción B para la pregunta 55"
+        },
+        {
+          "label": "c",
+          "text": "Opción C para la pregunta 55"
+        },
+        {
+          "label": "d",
+          "text": "Opción D para la pregunta 55"
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 56,
+      "stem": "Pregunta 56: Descripción completa de la pregunta 56, relacionada con la ley Orgánica 3/2018.",
+      "options": [
+        {
+          "label": "a",
+          "text": "Opción A para la pregunta 56"
+        },
+        {
+          "label": "b",
+          "text": "Opción B para la pregunta 56"
+        },
+        {
+          "label": "c",
+          "text": "Opción C para la pregunta 56"
+        },
+        {
+          "label": "d",
+          "text": "Opción D para la pregunta 56"
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 57,
+      "stem": "Pregunta 57: Descripción completa de la pregunta 57, relacionada con la ley Orgánica 3/2018.",
+      "options": [
+        {
+          "label": "a",
+          "text": "Opción A para la pregunta 57"
+        },
+        {
+          "label": "b",
+          "text": "Opción B para la pregunta 57"
+        },
+        {
+          "label": "c",
+          "text": "Opción C para la pregunta 57"
+        },
+        {
+          "label": "d",
+          "text": "Opción D para la pregunta 57"
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 58,
+      "stem": "Pregunta 58: Descripción completa de la pregunta 58, relacionada con la ley Orgánica 3/2018.",
+      "options": [
+        {
+          "label": "a",
+          "text": "Opción A para la pregunta 58"
+        },
+        {
+          "label": "b",
+          "text": "Opción B para la pregunta 58"
+        },
+        {
+          "label": "c",
+          "text": "Opción C para la pregunta 58"
+        },
+        {
+          "label": "d",
+          "text": "Opción D para la pregunta 58"
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 59,
+      "stem": "Pregunta 59: Descripción completa de la pregunta 59, relacionada con la ley Orgánica 3/2018.",
+      "options": [
+        {
+          "label": "a",
+          "text": "Opción A para la pregunta 59"
+        },
+        {
+          "label": "b",
+          "text": "Opción B para la pregunta 59"
+        },
+        {
+          "label": "c",
+          "text": "Opción C para la pregunta 59"
+        },
+        {
+          "label": "d",
+          "text": "Opción D para la pregunta 59"
+        }
+      ],
+      "correct_answer": "b"
+    },
+    {
+      "number": 60,
+      "stem": "Pregunta 60: Descripción completa de la pregunta 60, relacionada con la ley Orgánica 3/2018.",
+      "options": [
+        {
+          "label": "a",
+          "text": "Opción A para la pregunta 60"
+        },
+        {
+          "label": "b",
+          "text": "Opción B para la pregunta 60"
+        },
+        {
+          "label": "c",
+          "text": "Opción C para la pregunta 60"
+        },
+        {
+          "label": "d",
+          "text": "Opción D para la pregunta 60"
+        }
+      ],
+      "correct_answer": "b"
+    }
+  ]
+}

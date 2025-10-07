@@ -1,0 +1,55 @@
+[
+    {
+        "question_number": 6,
+        "question": "De conformidad con la ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, ¿en qué lengua/s se podrán dirigir los solicitantes de información?",
+        "options": {
+            "a": "Únicamente en español.",
+            "b": "Tanto en inglés como en español.",
+            "c": "En cualquiera de las lenguas cooficiales del Estado en el territorio en el que radique la Administración en cuestión.",
+            "d": "En cualquiera de las lenguas cooficiales del Estado en el territorio en el que radique la Administración en cuestión."
+        }
+    },
+    {
+        "question_number": 7,
+        "question": "¿Según el artículo 24 de la ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, cuál es el plazo para reclamar ante el Consejo de Transparencia?",
+        "options": {
+            "a": "La reclamación se interpondrá en el plazo de un mes a contar desde el día siguiente al de la notificación del acto impugnado o desde el día siguiente a aquel en que se produzcan los efectos del silencio administrativo.",
+            "b": "La reclamación se interpondrá en el plazo de cuarenta días a contar desde el día siguiente al de la notificación del acto impugnado o desde el día siguiente a aquel en que se produzcan los efectos del silencio administrativo.",
+            "c": "La reclamación se interpondrá en el plazo de cuarenta y cinco días a contar desde el día siguiente al de la notificación del acto impugnado o desde el día siguiente a aquel en que se produzcan los efectos del silencio administrativo.",
+            "d": "La reclamación se interpondrá en el plazo de dos meses a contar desde el día siguiente al de la notificación del acto impugnado o desde el día siguiente a aquel en que se produzcan los efectos del silencio administrativo."
+        }
+    },
+    {
+        "question_number": 8,
+        "question": "¿Qué ministerio creará un distintivo para reconocer a aquellas empresas que destaquen por la aplicación de políticas de igualdad?",
+        "options": {
+            "a": "Ministerio de Educación, Formación Profesional y Deportes",
+            "b": "Ministerio de Igualdad",
+            "c": "Ministerio de Cultura",
+            "d": "Ministerio de Trabajo y Asuntos Sociales"
+        },
+        "correct_answer": "b"
+    },
+    {
+        "question_number": 9,
+        "question": "Según la ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, ¿A quién corresponde promover el deporte femenino?",
+        "options": {
+            "a": "Al Congreso de los Diputados",
+            "b": "Al Consejo de Ministros",
+            "c": "Al Gobierno",
+            "d": "Al Senado"
+        },
+        "correct_answer": "c"
+    },
+    {
+        "question_number": 10,
+        "question": "¿En relación con el II Convenio Colectivo del Personal Laboral de las Universidades Públicas de Castilla y León, quiénes son las partes que acuerdan el convenio?",
+        "options": {
+            "a": "Los sindicatos FETE-UGT, CSI-CSIF, CCOO y STECYL",
+            "b": "Las universidades de Burgos, León, Salamanca y Valladolid y Los Sindicatos con representación en las mismas",
+            "c": "Las universidades y los sindicatos de Castilla y León",
+            "d": "Los sindicatos FETE-UGT y CSI-CSIF"
+        },
+        "correct_answer": "b"
+    }
+]
